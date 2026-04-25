@@ -12,7 +12,7 @@ This is simple console-based calculator written in Python.
 * Division without remainder 
 * Raising a number to a certain power
 * Loop mode (continue calculation without restarting)
-* random massage after each calculation 
+* Random massage after each calculation 
 
 
 
